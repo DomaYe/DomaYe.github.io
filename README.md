@@ -1,11 +1,13 @@
 # DomaYe.github.io
-#Főcím
-#Alcím
+# Munka Portfólió
+## Élet a Földönkívül
 
 Csapatunk neve:Fantano
 Csapat tagok:
- -Doma
+-Doma
 -Ádi
-- Szabi
-  -Zsolti
+-Szabi
+-Zsolti
+
+
  []
