@@ -3,10 +3,10 @@
 #Alcím
 
 Csapatunk neve:Fantano
+
 Csapat tagok:
- 
--Ádi
 -Szabi
+-Ádi
 -Zsolti
 -Doma
 
