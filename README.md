@@ -29,7 +29,8 @@ Füldönkivűliekről készített előadásban én a képek keresésést és kis
  
  ## Amőba
  
- 
+ ![Névtelen7](https://user-images.githubusercontent.com/90690660/150312053-8eacde04-8b16-458f-a7a8-362aaba94e41.png)
+
  
  ## Kedvenc Könyv
  
