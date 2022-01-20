@@ -22,7 +22,7 @@ A csapat összes tagja igyekezettkivenni a részét a munkából.
 ## Földönkívüli
 
 Füldönkivűliekről készített előadásban én a képek keresésést és kisebb részt html feladakat csináltam 
-és felosztottuk a a feladat a csapattagok között között.
+és felosztottuk a a feladat a csapattagok között között. Segítettem szöveg anyagokat keresni és htmlt szerkesztettem.
  
  ![Névtelen3](https://user-images.githubusercontent.com/90690660/150309402-56317c7f-5430-42f4-8a86-610015302228.png)
 
