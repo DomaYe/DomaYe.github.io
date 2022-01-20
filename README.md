@@ -24,7 +24,8 @@ A csapat összes tagja igyekezettkivenni a részét a munkából.
 Füldönkivűliekről készített előadásban én a képek keresésést és kisebb részt html feladakat csináltam 
 és felosztottuk a a feladat a csapattagok között között.
  
- 
+ ![Névtelen3](https://user-images.githubusercontent.com/90690660/150309402-56317c7f-5430-42f4-8a86-610015302228.png)
+
  
  ## Amőba
  
@@ -32,7 +33,9 @@ Füldönkivűliekről készített előadásban én a képek keresésést és kis
  
  ## Kedvenc Könyv
  
- 
+ ![Document - Google Chrome 2021 10 21  8_36_58](https://user-images.githubusercontent.com/90690660/150309441-9665add5-0f8a-4d5c-b25a-063ff4d63a8c.png)
+Ez az én egyik személyes könyvem, ezt a feladatot mindenki kűlön csinálta a saját weboldalt a könyvének.
+egy alap sémára és a végén összegyüjtöttük őket.
  
  
  
