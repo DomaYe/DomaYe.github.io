@@ -35,6 +35,7 @@ Füldönkivűliekről készített előadásban én a képek keresésést és kis
  ## Kedvenc Könyv
  
  ![Document - Google Chrome 2021 10 21  8_36_58](https://user-images.githubusercontent.com/90690660/150309441-9665add5-0f8a-4d5c-b25a-063ff4d63a8c.png)
+
 Ez az én egyik személyes könyvem, ezt a feladatot mindenki kűlön csinálta a saját weboldalt a könyvének.
 egy alap sémára és a végén összegyüjtöttük őket.
  
