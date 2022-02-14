@@ -1,0 +1,16 @@
+<main>
+  <h1>Az én kedvenc könyvem</h1>
+  <h2>...Kedvenc könyvem címe...</h2>
+  <div>
+    <p>...Rövid leírás a könyvről...</p>
+    <img src="..." title="..." alt="...">
+  </div>
+  <div>
+    <h4>Azért szeretem nagyon ezt a könyvet, mert</h4>
+    <ul>
+      <li>...</li>
+      <li>...</li>
+      <li>...</li>
+    </ul>
+  </div>
+</main>

@@ -1,0 +1,47 @@
+import turtle
+def Lengyelország():
+  #turtle.Screen().bgcolor("black")
+  turtle.penup()
+  turtle.showturtle()  
+  rovid = turtle.window_height() / 2
+  hosszu = rovid * 1.5
+  turtle.pu()
+  turtle.setpos(-hosszu/2, rovid/2)
+  # turtle.fd(50)
+  # turtle.right(90)
+  # turtle.fd(100)
+  # turtle.right(90)
+  turtle.pendown()
+  turtle.pencolor("#d43531")
+  turtle.fillcolor('#d43531')
+  turtle.begin_fill()
+  for i in range(2):
+      turtle.fd(hosszu)
+      turtle.right(90)
+      turtle.fd(rovid/2)
+      turtle.right(90)
+  turtle.end_fill()
+  turtle.pencolor("white")
+  turtle.fillcolor('white')
+  turtle.begin_fill()
+  turtle.left(270)
+  turtle.penup()
+  turtle.fd(rovid/2)
+  turtle.pendown()
+  for i in range(2):
+      turtle.fd(rovid/2)
+      turtle.left(90)
+      turtle.fd(hosszu)
+      turtle.left(90)
+  turtle.end_fill()
+
+  #rovid/2 + 100, hosszu/2
+  #turtle.left(180)
+  turtle.penup()
+  turtle.fd(rovid/2 + 50)
+  turtle.left(90)
+  turtle.fd(hosszu/2)
+  turtle.pencolor('black')
+ # turtle.write("Lengyelország",align="center", font=('Arial' ,30, 'normal'))  
+  turtle.hideturtle()
+  turtle.pencolor('white')

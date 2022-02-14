@@ -1,0 +1,15 @@
+width: 500px;
+width: 200px;
+font-family: 'Monotype Corsiva';
+font-family: Georgia;
+font-family: Calibri;
+background-color: #c0c0c0;
+color: maroon;
+font-weight: bold; 
+text-align: center;
+text-decoration: underline; 
+padding: 5px; 
+margin-left: 150px; 
+
+ 
+
